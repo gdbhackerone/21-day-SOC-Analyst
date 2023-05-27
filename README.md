@@ -8,26 +8,26 @@ Table of Contents:
 Table of Contents
 
 Day 1: Incident monitoring and triaging</br>
-Day 2: Log analysis and correlation
-Day 3: Incident response coordination and documentation
-Day 4: Vulnerability scanning and patch management
-Day 5: Threat hunting and APT detection
-Day 6: Security awareness training
-Day 7: Incident response exercises and tabletop drills
-Day 8: Security incident analysis and reporting
-Day 9: Third-party vendor risk assessment
-Day 10: Malware analysis and containment
-Day 11: Cloud security monitoring and configuration management
-Day 12: Insider threat detection and investigation
-Day 13: Incident response drills and digital forensics
-Day 14: User access reviews and access control management
-Day 15: Compliance audits and security assessments
-Day 16: Network traffic analysis for APT detection
-Day 17: Penetration testing and external collaboration
-Day 18: Security awareness training and log analysis
-Day 19: Incident response plan review and threat intelligence update
-Day 20: Incident response metrics and reporting
-Day 21: Incident response procedure review and post-mortem analysis
+Day 2: Log analysis and correlation</br>
+Day 3: Incident response coordination and documentation</br>
+Day 4: Vulnerability scanning and patch management</br>
+Day 5: Threat hunting and APT detection</br>
+Day 6: Security awareness training</br>
+Day 7: Incident response exercises and tabletop drills</br>
+Day 8: Security incident analysis and reporting</br>
+Day 9: Third-party vendor risk assessment</br>
+Day 10: Malware analysis and containment</br>
+Day 11: Cloud security monitoring and configuration management</br>
+Day 12: Insider threat detection and investigation</br>
+Day 13: Incident response drills and digital forensics</br>
+Day 14: User access reviews and access control management</br>
+Day 15: Compliance audits and security assessments</br>
+Day 16: Network traffic analysis for APT detection</br>
+Day 17: Penetration testing and external collaboration</br>
+Day 18: Security awareness training and log analysis</br>
+Day 19: Incident response plan review and threat intelligence update</br>
+Day 20: Incident response metrics and reporting</br>
+Day 21: Incident response procedure review and post-mortem analysis</br></br>
 
 To get started with the "21-day-SOC-Analyst" program, make sure you have the following prerequisites installed on your machine:
 
