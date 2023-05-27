@@ -7,7 +7,7 @@ Table of Contents:
 
 Table of Contents
 
-Day 1: Incident monitoring and triaging
+Day 1: Incident monitoring and triaging</br>
 Day 2: Log analysis and correlation
 Day 3: Incident response coordination and documentation
 Day 4: Vulnerability scanning and patch management
